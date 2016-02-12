@@ -22,7 +22,7 @@
         "gos/websocket-client": "~0.1.0",
         "gos/ratchet-stack": "~0.1",
         "gos/pnctl-event-loop-emitter" : "~0.1",
-        "gos/ratchet": "~0.3.0"
+        "gos/ratchet": "dev-master"
     },
     "replace" : {
         "cboden/ratchet": "~0.3.0"
